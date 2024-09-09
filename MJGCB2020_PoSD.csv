@@ -1,0 +1,8 @@
+# This file contains the time series of porosities from a compaction experiment described by Keller et al., 2017
+# [DOI: 10.2136/vzj2016.11.0118] (first two data points) and modeled by Meurer, Barron, et al. (2020)
+# [10.1111/gcb.15289] (last two data points). Year -1 stands for just before compaction, and year 0 for just after.
+year,Macropores,Mesopores,Micropores
+-1.0,0.07707808564231733,0.02292191435768265,0.39
+0.0,0.027770780856423205,0.012229219143576775,0.38
+1.0,0.0538364779874213,0.0169811320754717,0.3691823899371068
+2.0,0.0565199161425576,0.0186792452830188,0.3698113207547169
